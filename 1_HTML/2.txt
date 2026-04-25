@@ -1,0 +1,39 @@
+a)
+Sección: en cualquier parte del código. Probablemente en la primera línea.
+Efecto: ninguno, es un comentario. Puede servir para dar información a los programadores.
+Elementos/etiquetas/atributos: ninguno.
+
+b)
+Sección: dentro del <body>
+Efecto: una división para agrupar contenido.
+Elemento: div
+Etiquetas: <div> </div>
+Atributo: id="bloque1"
+
+c)
+Sección: dentro del <body>
+Efecto: muestra "lugar imagen" ya que no se especifica el src de un archivo con formato de imagen.
+Elemento: img
+Etiquetas: <img/>
+Atributos: src="", alt="lugar imagen", id="im1", name="im1", width="32", height="32", longdesc="detalles.htm"
+
+d)
+Sección: dentro del <head>
+Efecto: proporciona información sobre el documento.
+Elemento: meta
+Etiquetas: <meta/>
+Atributos: name="keywords", lang="es", content="casa, compra, venta, alquiler ", http-equiv="expires", content="16-Sep-2019 7:49 PM"
+
+e)
+Sección: dentro del <body>
+Efecto: crea un enlace que al ser clickeado redirige al usuario.
+Elemento: a
+Etiquetas: <a> </a>
+Atributos: href="http://www.e-style.com.ar/resumen.html", type="text/html", hreflang="es", charset="utf-8", rel="help"
+
+f)
+Sección: dentro del <body>
+Efecto: muestra una tabla de 4 columnas y 4 filas. En la primera fila se muestra el texto "Título", en la segunda "A", "B", "C" y en la tercera y cuarta "1°" y "2°".
+Elementos: table, caption, tr, th, td
+Etiquetas: <table> </table> <caption> </caption> <tr> </tr> <th> </th> <td> </td>
+Atributos: width="200", summary="Datos correspondientes al ejercicio vencido", align="top", scope="col", scope="row"

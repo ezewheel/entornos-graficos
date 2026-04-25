@@ -1,0 +1,50 @@
+a)
+i) Texto con hipervínculo que redirige a Google
+ii) Texto con hipervínculo que redirige a Google en una nueva pestaña
+iii) No tiene contenido por lo que no hay texto que clickear
+iv) Texto con hipervínculo que redirige al host /#
+v) Texto con hipervínculo que redirige al host /#arriba
+vi) No tiene contenido por lo que no hay texto que clickear
+
+b)
+i) Imagen junto a texto con hipervínculo que redirige a Google
+ii) Imagen con hipervínculo que redirige a Google junto a texto
+iii) Imagen junto a texto que al clickear cualquiera de los dos redirigen a Google
+iv) Imagen junto a texto que al clickear cualquiera de los dos redirigen a Google
+
+c)
+i) Lista sin orden
+ii) Lista ordenada
+iii) Tres listas ordenadas que se muestran como si fueran una sola
+iv) Lista ordenada con sangría
+
+d)
+i) Usa <th> para los encabezados
+ii) Usa <td> con <strong> para simular encabezados
+
+e)
+i) Usa <caption> para el título de la tabla (forma correcta)
+ii) Usa colspan="3" para simular el título de la tabla
+
+f)
+i) La primera columna combina dos filas
+ii) La primera fila combina dos columnas
+
+g) La segunda tabla usa cellpadding="0" cellspacing="0" para eliminar el espacio de los bordes de la tabla
+
+h)
+i) Forma correcta
+ii) El segundo input (de la contraseña) no es type="password"
+iii) El botón resetea el formulario en lugar de enviarlo
+
+i)
+i) Botón clickeable con una imagen
+ii) Botón sin imagen
+
+j)
+i) Permite seleccionar una opción a la vez porque los input tienen la misma id 
+ii) Permite seleccionar opción múltiple porque cada input tiene un id única
+
+k)
+i) Se muestra como menú desplazable y permite seleccionar opción múltiple
+ii) Se muestra como menú desplegable y permite seleccionar solo una opción
