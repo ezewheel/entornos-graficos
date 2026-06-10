@@ -1,0 +1,5 @@
+a. Los tres códigos producen la misma salida, pero no son equivalentes ya que usan estructuras distintas: los dos primeros usan while (dos formas equivalentes) mientras que el tercero usa do-while (garantiza al menos una ejecución), también difieren en el operador de incremento (post-incremento en los dos primeros y pre-incremento en el tercero)
+
+b. Los cuatro códigos producen la misma salida. La diferencia es que los dos primeros utilizan todas las partes del for (inicialización, condición e incremento), mientras que los dos últimos reemplazan la condición por una sentencia break, y el cuarto además realiza el incremento dentro del cuerpo del ciclo.
+
+c. Los dos códigos producen la misma salida. La diferencia es que el primero usa if anidados y el segundo usa switch.

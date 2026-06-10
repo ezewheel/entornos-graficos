@@ -1,0 +1,5 @@
+Imprime:
+El
+El clavel blanco
+
+Esto se debe a que en la primera línea $color y $flor no están definidos y php los reemplaza por strings vacíos "".
