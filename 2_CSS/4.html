@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        color: green;
+      }
+      a:link {
+        color: gray;
+      }
+      a:visited {
+        color: blue;
+      }
+      a:hover {
+        color: fuchsia;
+      }
+      a:active {
+        color: red;
+      }
+      p {
+        font-family: arial, helvetica;
+        font-size: 10px;
+        color: black;
+      }
+      .contenido {
+        font-size: 14px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <p class="contenido" style="font-weight: normal">
+        Este es un texto ...............
+      </p>
+      <table>
+        <tr>
+          <td>Y esta es una tabla.......</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.google.com.ar">con un enlace</a></td>
+        </tr>
+      </table>
+    </div>
+
+    <hr />
+
+    <div class="contenido">
+      <p>Este es un texto................</p>
+      <table>
+        <tr>
+          <td>Y esta es una tabla.......</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.google.com.ar">con un enlace</a></td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
+
+<!-- 
+En ambos códigos:
+Los hipervínculos se muestran en color gris, al pasarse el mouse por encima en fucsia, al clickearlos en rojo y, una vez visitada la página a la que dirigen, en azul.
+Los párrafos se muestran en arial, 10px y color negro, ya que el selector 'p' es más específico que '*'
+
+En el primer código:
+El párrafo tiene tamaño 14px porque es clase .contenido, pero tiene font-weight normal porque el selector es más específico
+El resto del texto tiene estilo predeterminado del navegador
+
+En el segundo código:
+Todo el texto tiene tamaño de fuente 14px y negrita
+ -->

@@ -1,0 +1,11 @@
+1. ¿Qué es una interfaz y cuáles son sus elementos fundamentales?
+Es el medio de interacción entre usuario y sistema. Sus elementos fundamentales son contenidos, controles y navegación.
+
+2. ¿Qué es un sistema de navegación y cuáles deben ser sus elementos indispensables?
+Es el conjunto de mecanismos que permiten recorrer el sitio. Debe incluir menús, enlaces y orientación al usuario.
+
+3. ¿Qué es Flash y qué problemas puede acarrear su uso?
+Es una tecnología multimedia para contenido interactivo. Puede generar problemas de compatibilidad, accesibilidad y rendimiento.
+
+4. ¿Qué es AJAX y qué problemas puede acarrear su uso?
+Es una técnica para actualizar contenido sin recargar la página. Puede generar problemas de accesibilidad, indexación y compatibilidad si se usa incorrectamente.

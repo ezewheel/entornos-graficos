@@ -1,0 +1,55 @@
+/* 1 */
+h1 em,
+h2 em,
+h3 em,
+h4 em,
+h5 em,
+h6 em {
+  color: red;
+}
+
+/* 2 */
+div p [href] {
+  color: black;
+}
+
+/* 3 */
+#ultimo ul {
+  color: yellow;
+}
+
+#ultimo ul a {
+  color: blue;
+}
+
+/* 4 */
+div .importante {
+  color: green;
+}
+
+h1 #importante,
+h2 #importante,
+h3 #importante,
+h4 #importante,
+h5 #importante,
+h6 #importante {
+  color: red;
+}
+
+/* 5 */
+h1 [title] {
+  color: blue;
+}
+
+/* 6 */
+ol a {
+  text-decoration: none;
+}
+
+ol a:link {
+  color: blue;
+}
+
+ol a:visited {
+  color: violet;
+}

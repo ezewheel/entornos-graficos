@@ -1,0 +1,55 @@
+1. ¿A qué nos referimos al hablar de Arquitectura de la Información y cuáles son los ítems principales que constituyen su metodología?
+Es la organización y estructuración de la información de un sitio. Sus ítems principales son: objetivos, audiencia, contenidos, estructura, navegación y diseño visual.
+
+2. ¿Cuál es la ventaja de tener identificados y definidos los objetivos del sitio?
+Permite orientar el diseño y los contenidos hacia una finalidad concreta.
+
+3. ¿Qué es la audiencia?
+Es el conjunto de usuarios a quienes está dirigido el sitio.
+
+4. ¿Según qué tipos de características se deben analizar las audiencias?
+Demográficas, culturales, tecnológicas y funcionales.
+
+5. ¿Qué son los escenarios de uso?
+Son descripciones de cómo los usuarios utilizarán el sitio para alcanzar objetivos.
+
+6. ¿Cuáles deberían ser los contenidos indispensables de un sitio web?
+Información institucional, contenidos principales, contacto y ayuda.
+
+7. ¿Cuáles son los requerimientos funcionales más frecuentes en un sitio web?
+Búsquedas, formularios, autenticación, interacción y gestión de contenidos.
+
+8. Al definir la estructura de un sitio, ¿cuáles son los dos aspectos fundamentales que se deben considerar?
+La organización de los contenidos y la navegación.
+
+9. ¿Cuál es la diferencia entre estructura y diseño de un sitio web?
+La estructura organiza la información; el diseño define su apariencia visual.
+
+10. ¿Cuáles son las características que debe tener el sistema de navegación? Explicar c/u.
+
+Consistente: mantiene el mismo criterio en todo el sitio.
+Claro: fácil de entender.
+Visible: siempre accesible.
+Eficiente: permite llegar rápidamente al contenido.
+
+11. ¿Cuáles son los elementos más importantes de un sistema de navegación?
+Menús, enlaces, buscador, mapa del sitio y migas de pan.
+
+12. ¿Cuáles son las cuatro etapas sucesivas que se deben realizar para definir el Diseño Visual de un sitio web y en qué consiste cada una?
+
+Bocetado: esquema inicial.
+Maquetación: distribución de elementos.
+Diseño gráfico: definición visual.
+Implementación: construcción final.
+
+13. ¿Cuáles son los sistemas que puede utilizar un Sitio Web para recibir feedback o retroalimentación de parte del usuario?
+Formularios, encuestas, comentarios, foros y correo electrónico.
+
+14. ¿En qué consiste la Prueba de verificación de Contenidos?
+En comprobar que la información sea correcta, completa y actualizada.
+
+15. ¿En qué consiste la Prueba de Verificaciones de Interfaces?
+En verificar el correcto funcionamiento y la usabilidad de la interfaz.
+
+16. ¿Cuáles son los chequeos más importantes que se deben realizar respecto de las funcionalidades y aplicaciones que ofrece el sitio?
+Comprobar formularios, enlaces, búsquedas, validaciones y compatibilidad.

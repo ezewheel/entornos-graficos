@@ -1,0 +1,13 @@
+1. CSS (cascade style sheet) es un lenguaje de hojas de estilo. Se usa para controlar la apariencia de una página web.
+2. Cada regla se compone de tres partes: selector (indica el o los elementos a estilizar), propiedad (indica qué aspecto del estilo se va a cambiar) y valor (indica la magnitud de esa propiedad).
+3. Hay tres formas:
+- Directamente en la etiqueta, usando el atributo style=""
+- Para todo la página/documento, usando la etiqueta <style> en el head
+- Con un archivo .css distinto al archivo .html. En este último se debe incluir <link rel="stylesheet" src="style.css"> en el head
+4. Son:
+- Por etiqueta, por ejemplo p {...}
+- Por clase, por ejemplo .text {...}
+- Por id, por ejemplo #navbar {...}
+5. Las pseudo-clases son selectores especiales que representan estados de un elemento. Las más utilizadas con vínculos son :hover (al pasar el cursor por encima), :active (mientras se haga click sobre el elemento), :link (selecciona enlaces que no fueron visitados) y :visited (selecciona enlaces que ya fueron visitados)
+6. Es el mecanismo mediante el cual algunos estilos aplicados a las estiquetas padre también se aplican a las etiquetas hijo. Por ejemplo, si un <div> encierra un <p> y al div le aplico color: blue, el color del texto dentro de <p> va a ser azul.
+7. La cascada es el mecanismo que usa CSS para decidir qué regla aplicar cuando varias reglas afectan al mismo elemento y a la misma propiedad. CSS prioriza el siguiente orden: !important, especificidad (más específico, mayor prioridad) y por último orden de aparición (más abajo en el código, más prioridad)

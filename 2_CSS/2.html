@@ -1,0 +1,49 @@
+<!-- Ejercicio 2 
+Analizar el siguiente código señalando declaraciones y aplicaciones de reglas, y su efecto. -->
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      p#normal {
+        font-family: arial, helvetica;
+        font-size: 11px;
+        font-weight: bold;
+      }
+      *#destacado {
+        border-style: solid;
+        border-color: blue;
+        border-width: 2px;
+      }
+      #distinto {
+        background-color: #9ec7eb;
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <p id="normal">Este es un párrafo</p>
+    <p id="destacado">Este es otro párrafo</p>
+    <table id="destacado">
+      <tr>
+        <td>Esta es una tabla</td>
+      </tr>
+    </table>
+    <p id="distinto">Este es el último párrafo</p>
+  </body>
+</html>
+
+<!-- 
+p#normal:
+    - Se declaran reglas que afectan a los párrafos (<p>) con id "normal"
+    - A estos elementos les pone como fuente Arial, de no ser posible Helvética, tamaño de fuente de 11px y negrita.
+*#destacado:
+    - Afectan a los elementos con id "destacado". Es equivalente a poner sólamente #destacado
+    - Se les pone un borde sólido de color azul y 2px de ancho
+#distinto: 
+    - Afecta a todos los elementos con id "distinto"
+    - Les pone color de fondo #9ec7eb (celeste) y color de letra rojo
+ -->
